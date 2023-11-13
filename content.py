@@ -1,4 +1,4 @@
-from react import html
+from reactpy import html
 from inventory_view import InventoryView
 
 def Content():

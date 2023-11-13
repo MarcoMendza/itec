@@ -1,4 +1,4 @@
-from react import html
+from reactpy import html
 
 def InventoryView():
     return html.div(

@@ -1,4 +1,4 @@
-from react import html
+from reactpy import html
 
 def Sidebar():
     return html.div(

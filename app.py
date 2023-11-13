@@ -1,4 +1,4 @@
-from react import html
+from reactpy import html
 from sidebar import Sidebar
 from content import Content
 
